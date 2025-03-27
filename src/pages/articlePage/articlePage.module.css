@@ -1,0 +1,16 @@
+.articleInfo {
+    color: grey;
+    font-weight: 300;
+    font-size: large;
+    display: flex;
+}
+
+p {
+    text-align: left;
+    opacity: 80%;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}

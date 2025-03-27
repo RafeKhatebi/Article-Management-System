@@ -1,0 +1,24 @@
+.aboutPage {}
+
+.aboutPage h2 {
+    margin: 40px 0;
+    text-align: right;
+}
+
+.aboutPage p {
+    text-align: right;
+    font-size: large;
+
+}
+
+.aboutPage img {
+    height: 600px;
+    width: 1300px;
+    margin-right: 15px;
+
+}
+
+.aboutPage h3 {
+    text-align: center;
+    margin: 5px 5px;
+}

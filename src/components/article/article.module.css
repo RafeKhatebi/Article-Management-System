@@ -1,0 +1,21 @@
+.articleWrapper {
+
+    height: 410px;
+    box-shadow: 0px 3px 5px #cfcdcd;
+    margin-bottom: 20px;
+
+}
+
+.articleWrapper img {
+    width: 100%;
+}
+
+.articleWrapper h3 {
+    text-align: right;
+    padding: 8px 16px;
+}
+
+.articleWrapper p {
+    text-align: right;
+    padding: 8px 16px;
+}

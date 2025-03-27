@@ -1,0 +1,74 @@
+/* .footer {
+    background-color: #333;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+} */
+footer {
+    background-color: #2d3748;
+    /* Dark gray background */
+    color: white;
+    /* White text color */
+    padding: 2rem 0;
+    /* Vertical padding */
+    text-align: center;
+    /* Center-align text */
+}
+
+footer .container {
+    max-width: 1200px;
+    /* Maximum width for the container */
+    margin: 0 auto;
+    /* Center the container */
+    padding: 0 1rem;
+    /* Horizontal padding */
+}
+
+footer h5 {
+    font-weight: bold;
+    /* Bold font for headings */
+    margin-bottom: 1rem;
+    /* Space below headings */
+}
+
+footer ul {
+    list-style-type: none;
+    /* Remove bullet points from lists */
+    padding: 0;
+    /* Remove default padding */
+}
+
+footer ul li {
+    margin-bottom: 0.5rem;
+    /* Space between list items */
+}
+
+footer a {
+    color: white;
+    /* White text color for links */
+    text-decoration: none;
+    /* Remove underline from links */
+}
+
+footer a:hover {
+    text-decoration: underline;
+    /* Underline links on hover */
+}
+
+.footerSocial {
+    display: flex;
+    /* Flexbox for social links */
+    justify-content: center;
+    /* Center social links */
+    gap: 1rem;
+    /* Space between social icons/links */
+}
+
+.footerSocial a {
+    font-size: 1.2rem;
+    /* Font size for social links */
+}
